@@ -19,7 +19,7 @@ public class Main {
 
         String url = "jdbc:oracle:thin:@localhost:1521:xe";
         String user = "system";
-        String senha = "Oracle1992!";
+        String senha = "xxxxxxxxxxxxx";
         
         try {
             //Apontar o driver
